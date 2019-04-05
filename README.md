@@ -1,5 +1,5 @@
 # Restaurant List
-A simple web application for some good restaurant in Taiwan
+A simple web application for some good restaurants in Taiwan
 
 ## Features
 - listing  8 restaurants from restaurants api
