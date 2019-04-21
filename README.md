@@ -1,6 +1,8 @@
 # Restaurants
 A simple web application for some good restaurants in Taiwan
 
+![](https://i.imgur.com/2nPAokA.png)
+
 # Getting Started
 Before starting, you'll need to install [**node**](https://nodejs.org/zh-tw/download/)、**npm**、 **express**、 **express-handlebars** advanced
 
